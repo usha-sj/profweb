@@ -13,7 +13,7 @@
 
 ## 🌐 Live Site
 
-[Preview the original template](https://minimal-portfolio.witzdam.com/)
+[Preview my website](https://www.ushasj.com/)
 
 ---
 
